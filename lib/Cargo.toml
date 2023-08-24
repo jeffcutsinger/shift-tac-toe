@@ -1,0 +1,11 @@
+[package]
+name = "shift-tac-toe"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+log = "0.4"
+
+[dev-dependencies]
+ctor = "0.2"
+simple_logger = "4.2"
